@@ -1,9 +1,7 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=007G&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=007G&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=007G&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  
+## My Stats
+<p>
+<a href="https://github.com/007G">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=007G&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=007G&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
 </p>
-
